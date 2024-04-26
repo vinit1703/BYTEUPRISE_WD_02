@@ -1,5 +1,5 @@
-# Responsive Landing Page GreenLeaf 🎧
-### Responsive Landing Page Greenleaf 🎧
+# Responsive Landing Page GreenLeaf 
+### Responsive Landing Page Greenleaf 
 
 - Beautiful Dryfruits landing page using HTML, CSS and JAVASCRIPT.
 - Dark interface.
